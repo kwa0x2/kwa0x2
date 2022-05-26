@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="200" src="1222.png"> 
 
- ![](https://img.shields.io/badge/Cyber%20Security-Dev%20%2F%20PCB-blue)
+ ![](https://img.shields.io/badge/Security%20Analyst-Pentester%20%2F%20Dev-blue)
 
 <table class="center">
 
