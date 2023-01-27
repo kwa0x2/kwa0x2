@@ -1,4 +1,4 @@
-<img align="right" alt="avatar" width="200" src="#"> 
+
 
  ![](https://img.shields.io/badge/Security%20Analyst-Pentester%20%2F%20Dev-blue)
 
