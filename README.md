@@ -4,7 +4,7 @@
 
 <table class="center">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kwa0x2)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kwainsane)](#)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kwainsane&theme=blue-green">
