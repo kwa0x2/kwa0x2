@@ -7,5 +7,5 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kwainsane)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kwainsane&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kwa0x2&theme=blue-green">
 
