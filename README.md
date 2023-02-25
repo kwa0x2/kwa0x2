@@ -4,8 +4,8 @@
 
 <table class="center">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kwainsane)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kwa0x2)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kwainsane&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kwa0x2&theme=blue-green">
 
