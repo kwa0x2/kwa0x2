@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kwa0x2" height="30" width="40" /></a>
 <a href="https://discord.kwa0x2.xyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".kwa#1337" height="30" width="40" /></a>
 <a href="https://tryhackme.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/tryhackme.svg" alt=".kwa TryHackMe" height="30" width="40" /></a>
-<a href="https://bionluk.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/bionluk.jpg" alt="kwaSec Bionluk" height="30" width="40" /></a>
+<a href="https://bionluk.kwa0x2.xyz/" target="blank"><img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/4c/29/734c29c2-e14e-8530-8fc0-8581c9467a9d/source/60x60bb.jpg" alt="kwaSec Bionluk" height="30" width="40" /></a>
 <a href="https://fiverr.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/fiverr.svg" alt="kwaSec Fiverr" height="30" width="40" /></a>
 </p>
 
