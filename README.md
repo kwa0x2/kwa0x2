@@ -15,10 +15,10 @@
 <p align="left">
 <a href="https://twitter.com/kwa0x6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kwa0x6" height="30" width="40" /></a>
 <a href="https://linkedln.kwa0x2.xyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kwa0x2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kwa0x2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kwa0x2" height="30" width="40" /></a>
 <a href="https://discord.kwa0x2.xyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".kwa#1337" height="30" width="40" /></a>
 <a href="https://tryhackme.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/tryhackme.svg" alt=".kwa TryHackMe" height="30" width="40" /></a>
-<a href="https://bionluk.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/bionluk.svg" alt="kwaSec Bionluk" height="30" width="40" /></a>
+<a href="https://bionluk.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/bionluk.jpg" alt="kwaSec Bionluk" height="30" width="40" /></a>
 <a href="https://fiverr.kwa0x2.xyz/" target="blank"><img align="center" src="https://kwa0x2.xyz/fiverr.svg" alt="kwaSec Fiverr" height="30" width="40" /></a>
 </p>
 
