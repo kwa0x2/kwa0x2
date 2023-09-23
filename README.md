@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm .kwa</h1>
-<h3 align="center">web app sec & software developer</h3>
+<h3 align="center">security analyst & trader & software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwa0x2&label=Profile%20views&color=0e75b6&style=flat" alt="kwa0x2" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kwa0x6" target="blank"><img src="https://img.shields.io/twitter/follow/kwa0x6?logo=twitter&style=for-the-badge" alt="kwa0x6" /></a> </p>
 
-- 🌱 I’m currently learning **network engineer**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 My portfolio website link is [https://kwa0x2.xyz](https://kwa0x2.xyz)
 
