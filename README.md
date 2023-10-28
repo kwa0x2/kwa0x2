@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm .kwa</h1>
-<h3 align="center">Security Analyst & Trader & Full-Stack Developer & Cloud Solutions Architect</h3>
+<h3 align="center">Security Analyst & Trader & Full-Stack Developer & Cloud Solutions Architect & Certified Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwa0x2&label=Profile%20views&color=0e75b6&style=flat" alt="kwa0x2" /> </p>
 
