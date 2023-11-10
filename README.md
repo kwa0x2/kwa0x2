@@ -7,17 +7,19 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;My portfolio website link is [https://kwa0x2.xyz](https://kwa0x2.xyz) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Aspiring Security Analyst and Software Developer.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Enthusiastic about software development and AWS.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Committed to continuous learning and growth.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Background includes [https://nettasec.com](https://nettasec.com)\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 6+ years of experience in cyber security and software development.\
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://tryhackme.kwa0x2.xyz"><img src="https://img.shields.io/badge/tryhackme-%236b6a6a.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bionluk.kwa0x2.xyz/"><img src="https://img.shields.io/badge/bionluk-%23dc2743.svg?&style=for-the-badge&logo=bionluk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="http://kwa0x2.xyz"><img src="https://img.shields.io/badge/portfolio-%23fcba03.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://nettasec.com"><img src="https://img.shields.io/badge/business-%2349fc03.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.kwa0x2.xyz/"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedln.kwa0x2.xyz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
