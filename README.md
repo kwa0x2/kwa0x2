@@ -8,12 +8,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:web: &nbsp;My portfolio website link is [https://kwa0x2.xyz](https://kwa0x2.xyz) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+&nbsp;&nbsp;&nbsp;🧑‍💻: &nbsp;Aspiring Security Analyst and Software Developer.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Enthusiastic about software development and AWS.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Committed to continuous learning and growth.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Background includes, [http://nettasec.com](https://nettasec.com)\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Excited about the future of security, software, and cloud technology.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 6+ years of experience in cyber security and software development.\
 
 <p align="center">
   <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
