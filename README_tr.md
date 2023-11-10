@@ -5,28 +5,27 @@
  <tr><td><a href="README_tr.md"><img src="images/tr-flag.png" height="13"> Turkish</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;Hakkımda
 
-&nbsp;&nbsp;&nbsp;🧑‍💻: &nbsp;Portföy web sitesi bağlantım [https://kwa0x2.xyz](https://kwa0x2.xyz) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Güvenlik Analisti ve Yazılım Geliştirici Adayı.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Yazılım geliştirme ve AWS konularında hevesli.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Sürekli öğrenme ve gelişmeye kararlı.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Kendi şirketim olan [https://nettasec.com](https://nettasec.com)\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;2017'den beri kod yazıyorum ve siber güvenlik ile yazılım geliştirme alanında 6+ yıllık deneyime sahibim.
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://tryhackme.kwa0x2.xyz"><img src="https://img.shields.io/badge/tryhackme-%236b6a6a.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://kwa0x2.xyz"><img src="https://img.shields.io/badge/portfolio-%236b6a6a.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://nettasec.com"><img src="https://img.shields.io/badge/business-%236b6a6a.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bionluk.kwa0x2.xyz/"><img src="https://img.shields.io/badge/bionluk-%23dc2743.svg?&style=for-the-badge&logo=bionluk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="http://kwa0x2.xyz"><img src="https://img.shields.io/badge/portfolio-%23fcba03.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://nettasec.com"><img src="https://img.shields.io/badge/business-%231d7b82.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.kwa0x2.xyz/"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedln.kwa0x2.xyz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Ana Teknoloji Bilgisi</b></summary>
   <br/>
 
 ![GoLang](https://img.shields.io/badge/GOLANG-DD0031.svg?&style=flat&logo=go&logoColor=white)&nbsp;
@@ -52,7 +51,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;GitHub İstatistikleri</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=kwa0x2&hide_border=true&theme=nightowl" />
