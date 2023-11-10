@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🧑‍💻: &nbsp;My portfolio website link is [https://kwa0x2.xyz](https://kwa0x2.xyz) \
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;My portfolio website link is [https://kwa0x2.xyz](https://kwa0x2.xyz) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
