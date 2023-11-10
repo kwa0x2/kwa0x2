@@ -19,7 +19,7 @@
   <a href="http://tryhackme.kwa0x2.xyz"><img src="https://img.shields.io/badge/tryhackme-%236b6a6a.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bionluk.kwa0x2.xyz/"><img src="https://img.shields.io/badge/bionluk-%23dc2743.svg?&style=for-the-badge&logo=bionluk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="http://kwa0x2.xyz"><img src="https://img.shields.io/badge/portfolio-%23fcba03.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://nettasec.com"><img src="https://img.shields.io/badge/business-%2349fc03.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="http://nettasec.com"><img src="https://img.shields.io/badge/business-%231d7b82.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.kwa0x2.xyz/"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedln.kwa0x2.xyz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
