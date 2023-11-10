@@ -37,7 +37,7 @@
 <!--![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp; -->
 ![C#](https://img.shields.io/badge/C%23-DD0031.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/IONIC-DD0031.svg?&style=flat&logo=ionic&logoColor=white)&nbsp;
+![Ionic](https://img.shields.io/badge/IONIC-DD0031.svg?&style=flat&logo=ionic&logoColor=white)&nbsp;\
 <!--![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp; -->
 <!--![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp; -->
 <!--![Dart](https://img.shields.io/badge/DART-%230175C2.svg?&style=flat&logo=dart&logoColor=white) &nbsp;\ -->
