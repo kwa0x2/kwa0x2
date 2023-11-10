@@ -22,7 +22,7 @@ svg {
 
 rect.headerRect {
   fill: black;
-  fill-opacity: 20%;
+  fill-opacity: 42%;
 }
 rect.headerRect:hover {
   fill: yellow;
@@ -32,7 +32,7 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: #fb383b;  
 }
 
 .wave:hover {
@@ -44,10 +44,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #fb383b;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4447e3;
+  stroke: #fb383b;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
@@ -124,7 +124,7 @@ rect.headerRect:hover {
 g.typingUnderline rect {
    animation: 
     blink 0.5s infinite, 
-    underline_move 4s steps(24, end) forwards;
+    underline_move 3s steps(24, end) forwards;
 }
 </style>
 
@@ -183,12 +183,12 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      BRUNO TACCA
+      ㅤㅤKWA0X2
   </textPath>
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+  <rect fill="#FFFFFF" x="79" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
@@ -201,7 +201,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Leadership, Software Architecture, Development, Science &amp; Technology.
+      Security Analyst, Cloud Solutions Architect, Full-Stack Developer.
   </textPath>
 </text>
 
