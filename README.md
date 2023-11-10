@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Aspiring Security Analyst and Software Developer.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Enthusiastic about software development and AWS.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Committed to continuous learning and growth.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Background includes [https://nettasec.com](https://nettasec.com)\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;My own company [https://nettasec.com](https://nettasec.com)\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 6+ years of experience in cyber security and software development.
 
 <p align="center">
