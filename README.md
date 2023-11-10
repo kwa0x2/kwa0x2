@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Enthusiastic about software development and AWS.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Committed to continuous learning and growth.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Background includes [https://nettasec.com](https://nettasec.com)\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 6+ years of experience in cyber security and software development.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 6+ years of experience in cyber security and software development.
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
