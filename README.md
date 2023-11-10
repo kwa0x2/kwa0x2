@@ -34,6 +34,8 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
+![GoLang](https://img.shields.io/badge/GOLANG-DD0031.svg?&style=flat&logo=go&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/RUBY-DD0031.svg?&style=flat&logo=ruby&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-DD0031.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/IONIC-DD0031.svg?&style=flat&logo=ionic&logoColor=white)&nbsp;
