@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Aspiring Vulnerability Researcher and Backend Developement.\
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Aspiring Vulnerability Researcher and Backend Developer.\
 &nbsp;&nbsp;&nbsp;🌱 &nbsp;Enthusiastic about software development and AWS.\
 &nbsp;&nbsp;&nbsp;💓 &nbsp;Committed to continuous learning and growth.\
 &nbsp;&nbsp;&nbsp;✍️ &nbsp;My own company [https://nettasec.com](https://nettasec.com)\
