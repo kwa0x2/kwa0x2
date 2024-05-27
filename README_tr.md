@@ -8,10 +8,10 @@
 ### :space_invader: &nbsp;Hakkımda
 
 &nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Güvenlik Analisti ve Yazılım Geliştirici Adayı.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Yazılım geliştirme ve AWS konularında hevesli.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Sürekli öğrenme ve gelişmeye kararlı.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Kendi şirketim olan [https://nettasec.com](https://nettasec.com)\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;2017'den beri kod yazıyorum ve siber güvenlik ile yazılım geliştirme alanında 6+ yıllık deneyime sahibim.
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Yazılım geliştirme ve AWS konularında hevesli.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Sürekli öğrenme ve gelişmeye kararlı.\
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Kendi şirketim olan [https://nettasec.com](https://nettasec.com)\
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp;2017'den beri kod yazıyorum ve siber güvenlik ile yazılım geliştirme alanında 6+ yıllık deneyime sahibim.
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
