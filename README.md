@@ -14,12 +14,11 @@
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since 2017 with 7+ years of experience in cyber security and software development.
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://tryhackme.kwa0x2.xyz"><img src="https://img.shields.io/badge/tryhackme-%236b6a6a.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bionluk.kwa0x2.xyz/"><img src="https://img.shields.io/badge/bionluk-%23dc2743.svg?&style=for-the-badge&logo=bionluk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.youtube.com/channel/UCgv2WQ5HDtWJqX4uKa6OanQ"><img src="https://img.shields.io/badge/youtube-%23dc2743.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/kwainsane"><img src="https://img.shields.io/badge/tryhackme-%236b6a6a.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bionluk.com/kwasec"><img src="https://img.shields.io/badge/bionluk-%23dc2743.svg?&style=for-the-badge&logo=bionluk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="http://nettasec.com"><img src="https://img.shields.io/badge/business-%231d7b82.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.kwa0x2.xyz/"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedln.kwa0x2.xyz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alper-karakoyun-8b195921a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
