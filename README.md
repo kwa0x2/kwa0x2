@@ -36,21 +36,18 @@
 
 ![GoLang](https://img.shields.io/badge/GOLANG-DD0031.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-DD0031.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-02303A.svg?&style=flat&logo=dotnet)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/IONIC-DD0031.svg?&style=flat&logo=ionic&logoColor=white)&nbsp;\
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-02303A.svg?&style=flat&logo=redis)
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-02303A.svg?&style=flat&logo=mongodb)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon&logoColor=white)&nbsp;
 </details>
 
 <details>
