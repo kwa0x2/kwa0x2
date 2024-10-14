@@ -18,7 +18,7 @@
 
 ## Go Projects
 [![Go4Hackers](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go4Hackers-Vuln-Scanner&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go4Hackers-Vuln-Scanner)
-[![SwiftChat-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=SwiftChat-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go4Hackers-Vuln-Scanner)
+[![SwiftChat-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=SwiftChat-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/SwiftChat-Backend)
 [![MediManage-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=MediManage-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/MediManage-Backend)
 [![Go-Postgre-API-Example](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go-Postgre-API-Example&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go-Postgre-API-Example)
 [![Go-Redis-Session](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go-Redis-Session&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go-Redis-Session)
