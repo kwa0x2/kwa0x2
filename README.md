@@ -24,9 +24,14 @@
 [![Go-Postgre-API-Example](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go-Postgre-API-Example&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go-Postgre-API-Example)
 [![Go-Redis-Session](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go-Redis-Session&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go-Redis-Session)
 
+## NodeJS Projects
+[![CoffeeShop-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=CoffeeShop-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/CoffeeShop-Backend)
+
 ## Next Projects
 [![SwiftChat-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=SwiftChat-Frontend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/SwiftChat-Frontend)
 [![MediManage-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=MediManage-Frontend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/MediManage-Frontend)
+
+
 
 
 
