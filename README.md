@@ -21,7 +21,6 @@
 [![SwiftChat-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=SwiftChat-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/SwiftChat-Backend)
 [![Settle-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Settle-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Settle-Backend)
 [![MediManage-Backend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=MediManage-Backend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/MediManage-Backend)
-[![Go-Postgre-API-Example](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go-Postgre-API-Example&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go-Postgre-API-Example)
 [![Go-Redis-Session](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=Go-Redis-Session&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/Go-Redis-Session)
 
 ## NodeJS Projects
