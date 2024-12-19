@@ -30,6 +30,9 @@
 [![SwiftChat-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=SwiftChat-Frontend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/SwiftChat-Frontend)
 [![MediManage-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=MediManage-Frontend&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/MediManage-Frontend)
 
+## Other
+[![AutoSRT-Lambda](https://github-readme-stats.vercel.app/api/pin/?username=kwa0x2&repo=AutoSRT-Lambda&theme=dark&description_lines_count=1)](https://github.com/kwa0x2/AutoSRT-Lambda)
+
 
 
 
