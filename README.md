@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alper 👋
 
-<!--
-**kwa0x2/kwa0x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Ireland 🇮🇪
 
-Here are some ideas to get you started:
+I build secure and scalable SaaS platforms, real-time applications, and backend systems using Go, Next.js, TypeScript, PostgreSQL, Docker, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Go
+* Node.js
+* Next.js
+* TypeScript
+* PostgreSQL
+* MongoDB
+* Redis
+* RabbitMQ
+* Docker
+* AWS
+
+## Interests
+
+* Backend Architecture
+* SaaS Platforms
+* Real-Time Systems
+* Cloud Infrastructure
+* Web Application Security
+
+## Links
+
+* LinkedIn: [Alper Karakoyun](https://www.linkedin.com/in/alperkarakoyun/)
+* Portfolio: [alperkarakoyun.com](https://alperkarakoyun.com/)
+* Email: [hello@alperkarakoyun.com](mailto:hello@alperkarakoyun.com)
